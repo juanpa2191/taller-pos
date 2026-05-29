@@ -1,0 +1,10 @@
+{
+  "name": "Moto Workshop SaaS & Marketplace",
+  "description": "Plataforma premium para gestión de talleres mecánicos de motocicletas, control de inventario ERP, orden de reparación en tiempo real y buscador público de repuestos.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
